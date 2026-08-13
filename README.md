@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Khaled%20Eldfry&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Building%20Intelligent%20Agents%20%26%20Automation&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Khaled%20Eldfry&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20-%20Building%20Intelligent%20Agents%20and%20Automation&descAlignY=55&descAlign=50" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/KhaledEldfry">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
@@ -20,18 +20,32 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/mishig25/mishig25/main/dev.gif">
+<table>
+<tr>
+<td>
 
-I'm an **AI Engineer** building practical, production-grade AI systems — from LLM-powered agents to full automation pipelines that run at scale.
+```
+Name: Khaled Ahmed
+Role: AI Engineer
+Location: Cairo, Egypt 🇪🇬
 
-- 🤖 Designing and deploying **multi-agent WhatsApp AI systems** for real businesses across Kuwait & the Gulf
-- 🔗 Working daily with **Dify**, **LangChain / LangGraph**, and agent orchestration
-- ⚙️ Building **AI automation workflows** connecting LLMs, APIs, databases & webhooks
-- 👁️ Background in **Computer Vision & Deep Learning**
-- 🧩 Interested in **Generative AI, NLP, RAG, and Intelligent Automation**
-- 🇪🇬 Based in **Cairo, Egypt**
+- Building multi-agent WhatsApp AI systems
+  for businesses across Kuwait & the Gulf
+- Working daily with Dify, LangChain, LangGraph
+- Designing AI automation workflows connecting
+  LLMs, APIs, databases and webhooks
+- Background in Computer Vision & Deep Learning
+- Interested in Generative AI, NLP, RAG
+  and Intelligent Automation
+- Arabic 🇪🇬 | English 🇬🇧
+```
 
-<br clear="right"/>
+</td>
+<td width="380">
+<img width="380" src="https://raw.githubusercontent.com/mishig25/mishig25/main/dev.gif">
+</td>
+</tr>
+</table>
 
 ---
 
