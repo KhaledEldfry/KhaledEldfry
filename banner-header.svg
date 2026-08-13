@@ -1,0 +1,62 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0014"/>
+      <stop offset="50%" stop-color="#160027"/>
+      <stop offset="100%" stop-color="#1f0033"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4A00E0"/>
+      <stop offset="50%" stop-color="#B721FF"/>
+      <stop offset="100%" stop-color="#8E2DE2"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#E2B7FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.55; }
+      }
+      .float1 { animation: float1 6s ease-in-out infinite; }
+      .float2 { animation: float2 7.5s ease-in-out infinite; }
+      .float3 { animation: float3 5s ease-in-out infinite; }
+      @keyframes float1 { 0%,100%{ transform: translateY(0px);} 50%{ transform: translateY(-18px);} }
+      @keyframes float2 { 0%,100%{ transform: translateY(0px);} 50%{ transform: translateY(14px);} }
+      @keyframes float3 { 0%,100%{ transform: translateY(0px);} 50%{ transform: translateY(-10px);} }
+      .waveMove { animation: waveMove 8s ease-in-out infinite; }
+      @keyframes waveMove {
+        0%, 100% { d: path("M0,220 C300,180 900,260 1200,200 L1200,260 L0,260 Z"); }
+        50% { d: path("M0,210 C300,250 900,170 1200,220 L1200,260 L0,260 Z"); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <circle class="float1" cx="120" cy="60" r="3" fill="#E2B7FF" opacity="0.8"/>
+  <circle class="float2" cx="1080" cy="50" r="2.5" fill="#B721FF" opacity="0.7"/>
+  <circle class="float3" cx="220" cy="200" r="2" fill="#ffffff" opacity="0.6"/>
+  <circle class="float1" cx="980" cy="190" r="3" fill="#8E2DE2" opacity="0.8"/>
+  <circle class="float2" cx="600" cy="40" r="2" fill="#E2B7FF" opacity="0.6"/>
+  <circle class="float3" cx="80" cy="150" r="2.5" fill="#B721FF" opacity="0.7"/>
+  <circle class="float1" cx="1120" cy="150" r="2" fill="#ffffff" opacity="0.5"/>
+
+  <path class="waveMove" d="M0,220 C300,180 900,260 1200,200 L1200,260 L0,260 Z" fill="url(#wave)" opacity="0.9"/>
+
+  <text x="600" y="120" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="url(#text)" filter="url(#glow)" class="pulse">
+    Khaled Eldfry
+  </text>
+  <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#D9B3FF">
+    AI Engineer — Building Intelligent Agents and Automation
+  </text>
+</svg>

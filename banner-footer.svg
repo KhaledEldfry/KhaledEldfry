@@ -1,0 +1,38 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgf" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f0033"/>
+      <stop offset="50%" stop-color="#160027"/>
+      <stop offset="100%" stop-color="#0b0014"/>
+    </linearGradient>
+    <linearGradient id="wavef" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8E2DE2"/>
+      <stop offset="50%" stop-color="#B721FF"/>
+      <stop offset="100%" stop-color="#4A00E0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="140"/></clipPath>
+    <style>
+      .track { animation: scroll 14s linear infinite; }
+      @keyframes scroll {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-600px); }
+      }
+      .waveMoveF { animation: waveMoveF 8s ease-in-out infinite; }
+      @keyframes waveMoveF {
+        0%, 100% { d: path("M0,40 C300,80 900,0 1200,60 L1200,0 L0,0 Z"); }
+        50% { d: path("M0,50 C300,10 900,90 1200,40 L1200,0 L0,0 Z"); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgf)"/>
+  <path class="waveMoveF" d="M0,40 C300,80 900,0 1200,60 L1200,0 L0,0 Z" fill="url(#wavef)" opacity="0.5"/>
+
+  <g clip-path="url(#clip)">
+    <g class="track" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#E2B7FF">
+      <text x="0" y="90">✦ Building intelligent systems, one workflow at a time</text>
+      <text x="600" y="90">✦ Building intelligent systems, one workflow at a time</text>
+      <text x="1200" y="90">✦ Building intelligent systems, one workflow at a time</text>
+    </g>
+  </g>
+</svg>
