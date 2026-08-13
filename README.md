@@ -20,9 +20,9 @@
 
 ## 🧠 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 Name: Khaled Ahmed
@@ -43,8 +43,8 @@ Languages: Arabic 🇪🇬 | English 🇬🇧
 ```
 
 </td>
-<td width="42%" align="center" valign="middle">
-<img width="320" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<td width="45%" align="center" valign="middle">
+<img width="100%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </td>
 </tr>
 </table>
