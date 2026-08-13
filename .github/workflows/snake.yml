@@ -18,8 +18,16 @@ jobs:
       - name: Generate metrics image
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # لازم PAT (Personal Access Token) بصلاحيات repo + read:user
+          # محفوظ في Settings > Secrets > Actions باسم METRICS_TOKEN
+          # لإن GITHUB_TOKEN الافتراضي مش شايف باقي الريبوهات بتاعتك
+          # (وده سبب ظهور 0 Languages قبل كدا)
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           base: header
           config_display: classic
           config_timezone: Africa/Cairo
+          plugin_calendar: yes
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_details: percentage
