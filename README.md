@@ -42,7 +42,7 @@ Location: Cairo, Egypt 🇪🇬
 
 </td>
 <td width="380">
-<img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/coding.gif">
+<img width="380" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 </td>
 </tr>
 </table>
@@ -169,16 +169,16 @@ Machine learning model that flags fraudulent transactions using classification t
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledEldfry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledEldfry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledEldfry&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=B721FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledEldfry&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B721FF&text_color=c9d1d9" height="170"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=KhaledEldfry&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F5A623&currStreakLabel=58A6FF"/>
+<img src="https://streak-stats.demolab.com/?user=KhaledEldfry&theme=radical&hide_border=true&background=0D1117&ring=B721FF&fire=8E2DE2&currStreakLabel=B721FF"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhaledEldfry&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KhaledEldfry&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
@@ -192,7 +192,7 @@ Machine learning model that flags fraudulent transactions using classification t
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F5A623"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=react-dark&hide_border=true&bg_color=0D1117&color=B721FF&line=B721FF&point=8E2DE2"/>
 </div>
 
 ---
@@ -206,6 +206,6 @@ Machine learning model that flags fraudulent transactions using classification t
 
 *Building intelligent systems, one workflow at a time.* 🤖⚡
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,50:B721FF,100:8E2DE2&height=140&section=footer" width="100%"/>
 
 </div>
