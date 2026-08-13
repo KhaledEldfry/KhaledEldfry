@@ -169,16 +169,11 @@ Machine learning model that flags fraudulent transactions using classification t
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KhaledEldfry&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=B721FF&icon_color=B721FF&text_color=c9d1d9" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledEldfry&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=B721FF&text_color=c9d1d9" height="170"/>
+<img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/main/metrics.svg" width="100%"/>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=KhaledEldfry&theme=radical&hide_border=true&background=0D1117&ring=B721FF&fire=8E2DE2&currStreakLabel=B721FF"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhaledEldfry&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
@@ -187,12 +182,6 @@ Machine learning model that flags fraudulent transactions using classification t
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/output/github-contribution-grid-snake.svg"/>
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=react-dark&hide_border=true&bg_color=0D1117&color=B721FF&line=B721FF&point=8E2DE2"/>
 </div>
 
 ---
