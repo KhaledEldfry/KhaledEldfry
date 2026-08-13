@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/main/banner-header.svg" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/KhaledEldfry">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3500&pause=1200&color=B721FF&center=true&vCenter=true&width=800&height=60&lines=AI+ENGINEER+%7C+LLM+APPS;AI+AGENTS+%26+AUTOMATION;LANGCHAIN+%7C+LANGGRAPH;WHATSAPP+AI+AT+SCALE" alt="Typing SVG" />
 </a>
 
 <br/>
