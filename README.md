@@ -1,238 +1,198 @@
-# 👋 Hi, I'm Khaled Ahmed
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+AI+Automation+%26+LLM+Applications;Building+AI+Agents+%26+Intelligent+Workflows;LangChain+%7C+LangGraph+%7C+LLMs+%7C+Computer+Vision;Turning+Business+Problems+into+AI+Solutions+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Khaled%20Eldfry&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Building%20Intelligent%20Agents%20%26%20Automation&descAlignY=55&descAlign=50" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaled-ahmed-39075924/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khaledeldfry13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/KhaledEldfry">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/KhaledEldfry">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
+<br/>
+
+<a href="https://www.linkedin.com/in/khaled-ahmed-39075924/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:khaledeldfry13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/KhaledEldfry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=KhaledEldfry&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br/>
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** focused on building practical AI systems, intelligent automation workflows, and LLM-powered applications.
+<img align="right" width="380" src="https://raw.githubusercontent.com/mishig25/mishig25/main/dev.gif">
 
-* 🤖 Building **AI Agents & LLM Applications**
-* 🔗 Working with **LangChain & LangGraph**
-* ⚙️ Designing **AI Automation & Workflow Systems**
-* 🧩 Integrating LLMs with **APIs, databases, webhooks, and external services**
-* 👁️ Experience in **Computer Vision & Deep Learning**
-* 🧠 Interested in **Generative AI, NLP, AI Agents & Intelligent Automation**
-* 🇪🇬 Based in **Cairo, Egypt**
+I'm an **AI Engineer** building practical, production-grade AI systems — from LLM-powered agents to full automation pipelines that run at scale.
+
+- 🤖 Designing and deploying **multi-agent WhatsApp AI systems** for real businesses across Kuwait & the Gulf
+- 🔗 Working daily with **Dify**, **LangChain / LangGraph**, and agent orchestration
+- ⚙️ Building **AI automation workflows** connecting LLMs, APIs, databases & webhooks
+- 👁️ Background in **Computer Vision & Deep Learning**
+- 🧩 Interested in **Generative AI, NLP, RAG, and Intelligent Automation**
+- 🇪🇬 Based in **Cairo, Egypt**
+
+<br clear="right"/>
 
 ---
 
 ## ⚡ What I Build
 
-```text
-Business Problem
-       │
-       ▼
-┌──────────────────┐
-│   AI Agent 🤖    │
-└────────┬─────────┘
-         │
- ┌───────┼────────┐
- ▼       ▼        ▼
-LLMs    APIs    Databases
- │       │        │
- └───────┼────────┘
-         ▼
-   Decision / Action
-         │
-         ▼
-   Automated Workflow
-         │
-         ▼
-   Business Outcome 🚀
-```
-
-### 🔄 AI Workflow Architecture
-
 ```mermaid
 flowchart LR
-    A[Business Request] --> B[AI Agent 🤖]
-    B --> C{Reasoning}
-    C --> D[LLM]
-    C --> E[External APIs]
-    C --> F[Database]
-    D --> G[Validation]
-    E --> G
-    F --> G
-    G --> H[Structured Output]
-    H --> I[Automation ⚡]
-    I --> J[Business Action]
+    A["💬 Business Request"] --> B{"🤖 AI Agent"}
+    B --> C["🧠 LLM Reasoning"]
+    B --> D["🔌 External APIs"]
+    B --> E["🗄️ Database"]
+    C --> F["✅ Validation"]
+    D --> F
+    E --> F
+    F --> G["📦 Structured Output"]
+    G --> H["⚡ Automation"]
+    H --> I["🚀 Business Outcome"]
+
+    style A fill:#0F2027,stroke:#58A6FF,color:#fff
+    style B fill:#203A43,stroke:#58A6FF,color:#fff
+    style C fill:#2C5364,stroke:#58A6FF,color:#fff
+    style D fill:#2C5364,stroke:#58A6FF,color:#fff
+    style E fill:#2C5364,stroke:#58A6FF,color:#fff
+    style F fill:#0F2027,stroke:#58A6FF,color:#fff
+    style G fill:#203A43,stroke:#58A6FF,color:#fff
+    style H fill:#2C5364,stroke:#58A6FF,color:#fff
+    style I fill:#0F2027,stroke:#F5A623,color:#fff
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 🤖 AI & LLM
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8"/>
-</p>
-
-`LangChain` `LangGraph` `LLMs` `Generative AI` `AI Agents` `Prompt Engineering` `NLP` `Transformers`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=8"/>
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dify-1B1B1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-F5A623?style=for-the-badge"/>
 
 ### 👁️ Machine Learning & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=8"/>
-</p>
-
-`YOLO` `CNNs` `Transfer Learning` `Computer Vision` `Deep Learning`
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=8"/>
+<br/>
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNNs-EE4C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transfer_Learning-00A67E?style=for-the-badge"/>
 
 ### ⚙️ Backend & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github&perline=8"/>
-</p>
-
-`REST APIs` `Webhooks` `Workflow Automation` `API Integration`
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github&perline=8"/>
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 ### 🗄️ Data & Tools
+<img src="https://skillicons.dev/icons?i=postgres,mysql,vscode&perline=8"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=8"/>
-</p>
-
-`Pandas` `NumPy` `SQL` `Data Processing`
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🦷 X-Dent — AI Dental Analysis
-
 **YOLOv11 Instance Segmentation + AI-powered dental analysis**
+Detects & segments individual teeth from dental X-rays.
 
-A computer vision system designed to detect and segment individual teeth from dental X-ray images to support dental analysis.
+`Python` `YOLOv11` `Computer Vision` `FastAPI`
 
-**Tech:** `Python` `YOLOv11` `Computer Vision` `Instance Segmentation` `FastAPI`
+[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/Tooth-instance-segmentation-Computer-Vision-Project)
 
-<a href="https://github.com/KhaledEldfry/Tooth-instance-segmentation-Computer-Vision-Project">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
+</td>
+<td width="50%">
 
 ### 🧠 Medical Regulatory Chatbot
+An NLP/LLM chatbot for medical regulatory information with intelligent, context-aware responses.
 
-An NLP/LLM-based chatbot designed to interact with medical regulatory information and provide intelligent responses.
+`Python` `NLP` `LLMs` `Transformers`
 
-**Tech:** `Python` `NLP` `LLMs` `Transformers`
+[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/medical_reg_chatbot)
 
-<a href="https://github.com/KhaledEldfry/medical_reg_chatbot">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🚗 Arabic License Plate OCR
+Computer vision pipeline for detecting and recognizing Arabic license plates in real time.
 
-Computer vision pipeline for detecting and recognizing Arabic license plates.
+`Python` `OpenCV` `OCR` `Computer Vision`
 
-**Tech:** `Python` `OpenCV` `OCR` `Computer Vision`
+[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/arabic_plate_OCR-)
 
-<a href="https://github.com/KhaledEldfry/arabic_plate_OCR-">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
+</td>
+<td width="50%">
 
 ### 💳 Fraud Detection
+Machine learning model that flags fraudulent transactions using classification techniques.
 
-Machine learning project focused on detecting fraudulent transactions using classification techniques.
+`Python` `Scikit-learn` `Pandas` `ML`
 
-**Tech:** `Python` `Scikit-learn` `Pandas` `Machine Learning`
+[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/fraud-detection)
 
-<a href="https://github.com/KhaledEldfry/fraud-detection">
-  <img src="https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 💼 Professional Focus
-
-```text
-AI Engineering
-      │
-      ├── LLM Applications
-      │      ├── AI Agents
-      │      ├── Prompt Engineering
-      │      └── Structured Outputs
-      │
-      ├── AI Automation
-      │      ├── Workflow Orchestration
-      │      ├── API Integrations
-      │      └── Business Process Automation
-      │
-      └── Machine Learning
-             ├── Computer Vision
-             ├── NLP
-             └── Deep Learning
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KhaledEldfry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledEldfry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KhaledEldfry&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledEldfry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhaledEldfry&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=KhaledEldfry&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F5A623&currStreakLabel=58A6FF"/>
+</div>
 
----
-
-## 🐍 My Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KhaledEldfry&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
 
 ---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/output/github-contribution-grid-snake.svg"/>
+</div>
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F5A623"/>
+</div>
 
 ---
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaled-ahmed-39075924/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:khaledeldfry13@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 📫 Let's Connect
 
-<p align="center">
-  <i>Building intelligent systems, one workflow at a time. 🤖</i>
-</p>
+<a href="https://www.linkedin.com/in/khaled-ahmed-39075924/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:khaledeldfry13@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
----
+*Building intelligent systems, one workflow at a time.* 🤖⚡
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KhaledEldfry&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
