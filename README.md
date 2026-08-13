@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:B721FF,100:4A00E0&height=260&section=header&text=Khaled%20Eldfry&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20-%20Building%20Intelligent%20Agents%20and%20Automation&descAlignY=58&descAlign=50" width="100%" alt="Header banner"/>
+<img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/main/banner-header.svg" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/KhaledEldfry">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
@@ -42,7 +42,7 @@ Location: Cairo, Egypt 🇪🇬
 
 </td>
 <td width="380">
-<img width="380" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+<img width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 </td>
 </tr>
 </table>
@@ -193,8 +193,6 @@ Machine learning model that flags fraudulent transactions using classification t
 <a href="https://www.linkedin.com/in/khaled-ahmed-39075924b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:khaledeldfry13@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-*Building intelligent systems, one workflow at a time.* 🤖⚡
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4A00E0,50:B721FF,100:8E2DE2&height=140&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/main/banner-footer.svg" width="100%"/>
 
 </div>
