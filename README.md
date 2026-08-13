@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Khaled%20Eldfry&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20-%20Building%20Intelligent%20Agents%20and%20Automation&descAlignY=55&descAlign=50" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8E2DE2,50:B721FF,100:4A00E0&height=260&section=header&text=Khaled%20Eldfry&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20-%20Building%20Intelligent%20Agents%20and%20Automation&descAlignY=58&descAlign=50" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/KhaledEldfry">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/khaled-ahmed-39075924/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/khaled-ahmed-39075924b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:khaledeldfry13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/KhaledEldfry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -42,7 +42,7 @@ Location: Cairo, Egypt 🇪🇬
 
 </td>
 <td width="380">
-<img width="380" src="https://raw.githubusercontent.com/mishig25/mishig25/main/dev.gif">
+<img width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/coding.gif">
 </td>
 </tr>
 </table>
@@ -86,7 +86,6 @@ flowchart LR
 <br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dify-1B1B1F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-F5A623?style=for-the-badge"/>
 
@@ -179,7 +178,7 @@ Machine learning model that flags fraudulent transactions using classification t
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhaledEldfry&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KhaledEldfry&theme=radical&no-frame=true&row=1&column=6&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -193,7 +192,7 @@ Machine learning model that flags fraudulent transactions using classification t
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F5A623"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhaledEldfry&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F5A623"/>
 </div>
 
 ---
@@ -202,7 +201,7 @@ Machine learning model that flags fraudulent transactions using classification t
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/khaled-ahmed-39075924/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/khaled-ahmed-39075924b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:khaledeldfry13@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 *Building intelligent systems, one workflow at a time.* 🤖⚡
