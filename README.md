@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/KhaledEldfry/KhaledEldfry/main/banner-header.svg" width="100%" alt="Header banner"/>
 
 <a href="https://github.com/KhaledEldfry">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=B721FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+LLM+Applications;Building+AI+Agents+%26+Automation+Workflows;LangChain+%7C+LangGraph+%7C+RAG+Systems;WhatsApp+AI+Customer+Service+at+Scale;Turning+Business+Problems+into+AI+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 <a href="mailto:khaledeldfry13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/KhaledEldfry"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=KhaledEldfry&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KhaledEldfry&label=Profile%20Views&color=B721FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -64,15 +64,15 @@ flowchart LR
     G --> H["⚡ Automation"]
     H --> I["🚀 Business Outcome"]
 
-    style A fill:#0F2027,stroke:#58A6FF,color:#fff
-    style B fill:#203A43,stroke:#58A6FF,color:#fff
-    style C fill:#2C5364,stroke:#58A6FF,color:#fff
-    style D fill:#2C5364,stroke:#58A6FF,color:#fff
-    style E fill:#2C5364,stroke:#58A6FF,color:#fff
-    style F fill:#0F2027,stroke:#58A6FF,color:#fff
-    style G fill:#203A43,stroke:#58A6FF,color:#fff
-    style H fill:#2C5364,stroke:#58A6FF,color:#fff
-    style I fill:#0F2027,stroke:#F5A623,color:#fff
+    style A fill:#0F2027,stroke:#B721FF,color:#fff
+    style B fill:#203A43,stroke:#B721FF,color:#fff
+    style C fill:#2C5364,stroke:#B721FF,color:#fff
+    style D fill:#2C5364,stroke:#B721FF,color:#fff
+    style E fill:#2C5364,stroke:#B721FF,color:#fff
+    style F fill:#0F2027,stroke:#B721FF,color:#fff
+    style G fill:#203A43,stroke:#B721FF,color:#fff
+    style H fill:#2C5364,stroke:#B721FF,color:#fff
+    style I fill:#0F2027,stroke:#8E2DE2,color:#fff
 ```
 
 ---
@@ -87,7 +87,7 @@ flowchart LR
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-F5A623?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8E2DE2?style=for-the-badge"/>
 
 ### 👁️ Machine Learning & Computer Vision
 <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,sklearn&perline=8"/>
@@ -126,7 +126,7 @@ Detects & segments individual teeth from dental X-rays.
 
 `Python` `YOLOv11` `Computer Vision` `FastAPI`
 
-[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/Tooth-instance-segmentation-Computer-Vision-Project)
+[![View](https://img.shields.io/badge/View_Project-B721FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/Tooth-instance-segmentation-Computer-Vision-Project)
 
 </td>
 <td width="50%">
@@ -136,7 +136,7 @@ An NLP/LLM chatbot for medical regulatory information with intelligent, context-
 
 `Python` `NLP` `LLMs` `Transformers`
 
-[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/medical_reg_chatbot)
+[![View](https://img.shields.io/badge/View_Project-B721FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/medical_reg_chatbot)
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ Computer vision pipeline for detecting and recognizing Arabic license plates in 
 
 `Python` `OpenCV` `OCR` `Computer Vision`
 
-[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/arabic_plate_OCR-)
+[![View](https://img.shields.io/badge/View_Project-B721FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/arabic_plate_OCR-)
 
 </td>
 <td width="50%">
@@ -158,7 +158,7 @@ Machine learning model that flags fraudulent transactions using classification t
 
 `Python` `Scikit-learn` `Pandas` `ML`
 
-[![View](https://img.shields.io/badge/View_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/fraud-detection)
+[![View](https://img.shields.io/badge/View_Project-B721FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhaledEldfry/fraud-detection)
 
 </td>
 </tr>
